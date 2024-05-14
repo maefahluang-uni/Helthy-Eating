@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "570413526718",
+    "firebase_url": "https://miniproject-5d7ea-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "miniproject-5d7ea",
+    "storage_bucket": "miniproject-5d7ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570413526718:android:b5984d9e89b80994e4b8ef",
+        "android_client_info": {
+          "package_name": "com.thanakorn.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnYQGHNWK7tjWbpn_G26zIKCjcOFfhz7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
